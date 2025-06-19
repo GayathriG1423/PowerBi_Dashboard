@@ -19,12 +19,6 @@ This repository contains a Power BI dashboard built to analyze and visualize the
 - **Power BI Desktop**
 - **DAX** (Data Analysis Expressions)
 
-## 🚀 Getting Started
-
-To view or edit the dashboard:
-1. Clone the repo or download the `.pbix` file.
-2. Open it using **Power BI Desktop**.
-3. (Optional) Connect to your own dataset if needed.
 
 ## 🧠 Learnings
 
