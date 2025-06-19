@@ -14,20 +14,10 @@ This repository contains a Power BI dashboard built to analyze and visualize the
 - `Dashboard.pbix`: The Power BI dashboard file
 - `README.md`: This documentation
 
-## 📊 Dashboard Insights
-
-The dashboard provides insights on:
-
-- [Insight 1 – e.g., "Total revenue and sales trends over months"]
-- [Insight 2 – e.g., "Top-performing products or regions"]
-- [Insight 3 – e.g., "Customer segmentation by behavior"]
-
 ## 🛠️ Tools & Technologies
 
 - **Power BI Desktop**
 - **DAX** (Data Analysis Expressions)
-- **Power Query (M Language)**
-- [Other tools used, e.g., Excel, SQL, etc.]
 
 ## 🚀 Getting Started
 
